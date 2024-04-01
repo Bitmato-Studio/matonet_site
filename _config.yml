@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
 baseurl: "/matonet_site" # the name of your github repo
-url: "https://harrywang.github.io" # the url of your github pages
+url: "https://matonet_site.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "MatoNet: Tailwind + Github Pages"
